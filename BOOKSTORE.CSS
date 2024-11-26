@@ -1,0 +1,108 @@
+@import url(https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap);
+.book-store-home-page{
+    background-color:#1b1b1b;
+    padding:24px;
+    background-size:cover;
+}
+.home-page-heading{
+    color: white;
+    font-family:"Bree Serif";
+    font-size:28px;
+}
+.popular-book-container{
+    display:flex;
+    flex-direction: row;
+    background-color: #e6f6ff;
+    border-radius:8px;
+}
+.popular-book-image{
+    width:126px;
+    height:180px;
+    margin:10px;
+}
+.popular-book-short-details-container{
+    padding: 24px;
+}
+.popular-book-heading{
+    color:#183b56;
+    font-family:"Brew Serif";
+    font-size: 25px;
+}
+.popular-book-text{
+    color:#06070d;
+    font-family:"Bree Serif";
+    font-size:15px;
+}
+.popular-book-author{
+    color:#183b56;
+    font-family:"Bree Serif";
+    font-size:10px;
+}
+.button{
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:12px;
+}
+.recommended-books-heading{
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size: 20px;
+    margin-top:10px;
+}
+.recommended-book-container{
+    margin-bottom:10px;
+}
+.recommended-book-image{
+    width:80px;
+    height:125px;
+}
+.recommended-book-short-details-container{
+    margin-left:10px;
+}
+.recommended-book-name{
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:16px;
+}
+.recommended-book-description{
+    color:white;
+    font-family:"Bree Serif";
+    font-size:12px;
+}
+.book-details-page{
+    background-color:#1b1b1b;
+    padding:24px;
+    text-align:center;
+    height:100vh;
+}
+.book-details-page-image{
+    width:190px;
+    height:294px;
+    margin-bottom:20px;
+}
+.book-name{
+    color:white;
+    font-family:"Bree Serif";
+    font-size:30px;
+}
+.author{
+    color:#9aa5b1;
+    font-family:"Bree Serif";
+    font-size:15px;
+}
+.book-description{
+    text-align:left;
+    color:#e4e7eb;
+    font-family:"Bree Serif";
+    font-size:20px;
+    margin-top:10px;
+}
+.Kids-bg{
+    background-image:url("https://img.freepik.com/free-vector/hand-drawn-doodle-background_23-2149973179.jpg");
+    background-size: cover;
+}
+.agebutton{
+    width:150px;
+    height:50px;
+    margin:20px;
+}
